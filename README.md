@@ -32,6 +32,15 @@ I usually create a subdomain for development while I am building the web site.  
 </ul>
   <img src="/resources/img/godaddy-domains-section.png" />
 <ul>
-  <li>Click on Subdomains</li>
+  <li>Click on Subdomains and your should see this:</li>
 </ul>
-  <img src="/resources/img/godaddy-create-subdomain.png" />
+  <img src="/resources/img/godaddy-create-subdomain-blank.png" />
+  
+<ul>
+  <li>We are going to create a new subdomain called "dev" (for development), and place it into the subdirectory "subdomains".  I will explain this in a bit.</li>
+</ul>
+  <img src="/resources/img/godaddy-create-subdomain-filled.png" />
+<ul>
+  <li>After you have clicked the Create button, you should have a subdomain at http://dev.example.com.</li>
+  <li>The working directory for this subdomain (where the files are stored) is at "/home/cpanel-account/public_html/subdomains/dev"</li>
+</ul>
