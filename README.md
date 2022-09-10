@@ -5,4 +5,7 @@ While creating this walk-through, I was currently building the <a href="https://
 
 Also, the screenshots were taken in September 2022, so they may need to be updated.
 
-
+## Contents
+<ol>
+  <li><a href="1-Creating-a-GoDaddy-website.md">Getting started with GoDaddy</a></li>
+</ol>
