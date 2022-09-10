@@ -7,6 +7,14 @@ Also, the screenshots were taken in September 2022, so they may need to be updat
 
 ## Contents
 <ol>
-  <li><a href="software-requirements.md">Software Requirements</a></li>
+  <li><a href="software-requirements.md">Software Requirements</a>
+    <ol>
+      <li><a href="software-requirements.md#vs_code">Visual Studio Code</span></li>
+      <li><a href="software-requirements.md#xampp">XAMPP</span></li>
+      <li><a href="software-requirements.md#composer">Composer</span></li>
+      <li><a href="software-requirements.md#bash">Git Bash</span></li>
+      <li><a href="software-requirements.md#filezilla">FileZilla</span></li>
+    </ol>
+  </li>
   <li><a href="using-GoDaddy.md">Getting started with GoDaddy</a></li>
 </ol>
