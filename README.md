@@ -7,5 +7,6 @@ Also, the screenshots were taken in September 2022, so they may need to be updat
 
 ## Contents
 <ol>
-  <li><a href="1-Creating-a-GoDaddy-website.md">Getting started with GoDaddy</a></li>
+  <li><a href="1-Software-Requirements.md">Software Requirements</a></li>
+  <li><a href="2-Creating-a-GoDaddy-website.md">Getting started with GoDaddy</a></li>
 </ol>
